@@ -1,0 +1,6 @@
+{
+  "name": "MITS Smart Parking Management System",
+  "description": "Campus smart parking map, slot reservation, vehicle lookup, analytics, and role-based management dashboard for MITS Gwalior by Team NeonDrive (Shubham Khare & Sohit Patel).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
